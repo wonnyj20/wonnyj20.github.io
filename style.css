@@ -37,9 +37,14 @@ header {
   text-align: center;
 }
 h3 {
-  font-size: 1em;
+  font-size: 1.25em;
   font-weight: normal;
+  text-decoration: underline;
 }
 h1 {
   text-align: center;
+}
+.profile-img {
+  width: 300px;
+  border-radius: 50%;
 }
