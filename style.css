@@ -27,12 +27,14 @@ body {
 footer {
   text-align: center;
   padding: 50px;
-  font-family: "Optima", "Helvetica", serif;
+  font-family: "Gill Sans", "Helvetica", serif;
 }
 header {
   border-color: #fada5e;
   border-bottom-style: solid;
+  text-align: center;
 }
 h3 {
   font-weight: normal;
+  font-size: 1em;
 }
