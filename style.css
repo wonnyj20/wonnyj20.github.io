@@ -19,15 +19,15 @@ a:active {
   text-decoration: underline;
 }
 body {
-  max-width: 700px;
+  max-width: 650px;
   margin: auto;
   padding: 10px;
+  margin-left: 10px;
   font-family: "Gill Sans", "Helvetica", serif;
 }
 footer {
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 30px;
+  padding: 10px;
   font-family: "Gill Sans", "Helvetica", serif;
   border-color: #fada5e;
   border-top-style: solid;
