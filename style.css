@@ -33,3 +33,6 @@ header {
   border-color: #fada5e;
   border-bottom-style: solid;
 }
+h3 {
+  font-weight: normal;
+}
