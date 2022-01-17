@@ -44,6 +44,7 @@ h3 {
 }
 h1 {
   text-align: center;
+  font-weight: normal;
 }
 .profile-img {
   width: 300px;
