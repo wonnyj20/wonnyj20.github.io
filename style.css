@@ -20,7 +20,8 @@ a:active {
 }
 body {
   margin-top: 50px;
-  margin-left: 10px;
+  max-width: 500px;
+  margin: auto;
   justify-content: center;
   font-family: "Gill Sans", "Helvetica", serif;
 }
