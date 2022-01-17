@@ -20,7 +20,8 @@ a:active {
 }
 body {
   margin-top: 50px;
-  align-self: center;
+  margin-left: 200px;
+  margin-right: 200px;
   font-family: "Gill Sans", "Helvetica", serif;
 }
 footer {
