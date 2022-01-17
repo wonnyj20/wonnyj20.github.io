@@ -20,12 +20,13 @@ a:active {
 }
 body {
   margin-top: 50px;
+  margin-left: 10px;
   justify-content: center;
   font-family: "Gill Sans", "Helvetica", serif;
 }
 footer {
   text-align: center;
-  margin-top: 10px;
+  margin-top: 20px;
   margin-bottom: 50px;
   font-family: "Gill Sans", "Helvetica", serif;
   border-color: #fada5e;
