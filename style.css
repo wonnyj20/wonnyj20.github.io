@@ -22,6 +22,9 @@ body {
   max-width: 800px;
   margin: auto;
   font-family: "Gill Sans", "Helvetica", serif;
+  border-color: #fada5e;
+  border-top-style: solid;
+  text-align: center;
 }
 footer {
   text-align: center;
