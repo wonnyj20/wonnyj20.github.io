@@ -34,7 +34,7 @@ header {
   border-color: #fada5e;
   margin-top: 50px;
   border-bottom-style: solid;
-  text-align: left;
+  text-align: center;
 }
 h3 {
   font-size: 1.25em;
@@ -42,7 +42,7 @@ h3 {
   text-decoration: underline;
 }
 h1 {
-  text-align: center;
+  text-align: left;
   font-weight: normal;
   text-shadow: 2px 2px #fada5e;
 }
